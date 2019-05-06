@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to the GIS Day Savannah Test Page
 
-You can use the [editor on GitHub](https://github.com/kaitmorano/kaitmorano.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+GIS Day Savannah is an annual event to introduce GIS technology and other geospatial sciences to our local school children and promote the capabilities and use of GIS to the general business community. GIS Day is celebrated internationally as part of National Geographic’s International Geography Week. The GIS Day Savannah Committee is proud to invite Chatham County students along with area business owners, staff, GIS users, and local citizens to attend the event. Students and citizens will have the chance to see GIS in action in our community.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Join us
+# WEDNESDAY NOVEMBER 13, 2019
 
 ### Markdown
 
