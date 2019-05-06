@@ -2,7 +2,7 @@
 
 GIS Day Savannah is an annual event to introduce GIS technology and other geospatial sciences to our local school children and promote the capabilities and use of GIS to the general business community. GIS Day is celebrated internationally as part of National Geographic’s International Geography Week. The GIS Day Savannah Committee is proud to invite Chatham County students along with area business owners, staff, GIS users, and local citizens to attend the event. Students and citizens will have the chance to see GIS in action in our community.
 
-### WEDNESDAY NOVEMBER 13, 2019
+## WEDNESDAY NOVEMBER 13, 2019
 
 ### Markdown
 
